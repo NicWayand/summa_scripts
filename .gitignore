@@ -1,0 +1,15 @@
+# Python Package Generated Files #
+##################################
+# Specific files/directories to ignore
+/build/
+
+# Compiled python code
+*.pyc
+
+# Package generated files
+.ipynb_checkpoints/
+dist/
+*.egg-info/
+
+# Previous branch of summa_Scripts to ignore
+/settings_old/
